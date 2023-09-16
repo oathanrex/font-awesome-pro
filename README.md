@@ -30,4 +30,6 @@ Kami menyambut kontribusi pada pengembangan Font Awesome Pro 6.4.2. Jika Anda in
 
 ## Lisensi
 
-Font Awesome Pro 6.4.2 tersedia di bawah [lisensi Font Awesome](https://fontawesome.com/license).
+<div align="left">
+<a href="https://fontawesome.com/license" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/license/eliyantosarage/font-awesome-pro" alt="Lisensi Font Awesome Pro"></a>
+</div>
