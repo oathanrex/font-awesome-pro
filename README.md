@@ -1,6 +1,6 @@
 # Font Awesome Pro 6.4.2
 
-**Font Awesome Pro 6.4.2** adalah koleksi ikon vektor premium yang sangat populer dan digunakan secara luas dalam desain web dan berbagai proyek kreatif. Dengan **Font Awesome Pro 6.4.2**, Anda dapat memberikan tampilan yang menarik dan fungsionalitas yang ditingkatkan untuk situs web dan aplikasi Anda.
+**Font Awesome Pro 6.4.2** is a popular collection of premium vector icons widely used in web design and various creative projects. With **Font Awesome Pro 6.4.2**, you can add an attractive look and enhanced functionality to your websites and applications.
 
 ###
 
@@ -10,33 +10,58 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </div>
 
-## Fitur Utama
+## Main Features
 
-- **Koleksi Ikon yang Luas:** **Font Awesome Pro 6.4.2** memiliki beragam ikon yang mencakup berbagai jenis proyek, mulai dari ikon sosial media hingga ikon alat, kendaraan, makanan, dan banyak lagi.
+- **Wide Icon Collection:** **Font Awesome Pro 6.4.2** offers a diverse range of icons covering various types of projects, from social media icons to icons for tools, vehicles, food, and much more.
 
-- **Kustomisasi yang Fleksibel:** Anda dapat dengan mudah menyesuaikan warna, ukuran, dan gaya ikon sesuai dengan kebutuhan desain Anda, memberikan fleksibilitas tak terbatas.
+- **Flexible Customization:** You can easily customize the color, size, and style of icons to fit your design needs, providing limitless flexibility.
 
-- **Animasi:** **Font Awesome Pro 6.4.2** mendukung animasi yang memungkinkan Anda menambahkan elemen interaktif yang menarik pada situs web Anda.
+- **Animation:** **Font Awesome Pro 6.4.2** supports animation, allowing you to add engaging interactive elements to your website.
 
-## Cara Menggunakan
+## How to Use
 
-1. Unduh **Font Awesome Pro 6.4.2** atau tambahkan melalui CDN (Content Delivery Network).
+1. Download **Font Awesome Pro 6.4.2** or add it via a Content Delivery Network (CDN).
 
-2. Integrasikan ikon-ikon ke dalam proyek Anda dengan menyisipkan kode HTML yang sesuai.
+2. Integrate icons into your project by inserting the appropriate HTML code.
 
-   Contoh:
+   Example:
    ```html
    <i class="fas fa-heart"></i>
 
-## Contoh Penggunaan
+## Contribution
 
-Dalam folder ini, Anda akan menemukan beberapa contoh penggunaan **Font Awesome Pro 6.4.2** dalam file HTML.
+We welcome contributions to the development of Font Awesome Pro 6.4.2. If you would like to contribute, please open a pull request, and we will gladly review your contributions.
 
-## Kontribusi
+## Changelog (6.4.2)
 
-Kami menyambut kontribusi pada pengembangan **Font Awesome Pro 6.4.2**. Jika Anda ingin berkontribusi, silakan buka pull request, dan kami akan dengan senang hati meninjau kontribusi Anda.
+### Added
+- Dug up a new, commissioned, raccoon icon.
+- Turned on new subtitles and subtitles-slash icons.
+- Cast a spell on new, commissioned, person-fairy and person-dress-fairy icons.
+- Swapped in new, commissioned, swap and swap-arrows icons.
+- Shone a light on a new lighthouse icon.
+- Trotted out a new globe-pointer icon.
+- Pointed to a selection of new arrow-*-to-*-arc and arrow-*-from-*-arc icons.
+- Got up to get down with a new angles-up-down icon.
+- Added the Threads brand icon.
+- Added the Twitter X brand icon.
+- Added the Debian brand icon.
 
-## Lisensi
+### Changed
+- Added "types" to the package.json exports for TypeScript definitions in JS packages.
+
+### Fixed
+- Fixed an issue with the classic light style of the arrow-down-wide-short icon.
+- Fixed issue with the regular styles of the clone and copy icons.
+- Fixed an issue with the hand-spock icon.
+- Fixed an issue where the "heart" in the hand-holding-heart and other "hand/heart" icons were too heavy in the Thin style.
+- Fixed a warning in the Edge browser using createElementNS for SVG elements.
+
+<div align="center">
+    <a href="https://fontawesome.com/docs/changelog/" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">View All Changelog</a>
+</div>
+
+## License
 
 <div align="left">
 <a href="https://fontawesome.com/license" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/license/eliyantosarage/font-awesome-pro"></a>
