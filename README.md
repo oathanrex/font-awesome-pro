@@ -1,6 +1,6 @@
-# Font Awesome Pro 6.4.2
+# Font Awesome Pro v6.5.0
 
-**Font Awesome Pro 6.4.2** is a popular collection of premium vector icons widely used in web design and various creative projects. With **Font Awesome Pro 6.4.2**, you can add an attractive look and enhanced functionality to your websites and applications.
+Font Awesome Pro is an extensive and diverse collection of icons designed for use in web development and desktop applications. This version, v6.5.0, offers a wide range of high-quality icons that can enhance the aesthetic and functionality of your projects.
 
 ###
 
@@ -10,59 +10,104 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </div>
 
-## Main Features
+## Key Features
 
-- **Wide Icon Collection:** **Font Awesome Pro 6.4.2** offers a diverse range of icons covering various types of projects, from social media icons to icons for tools, vehicles, food, and much more.
+- **Variety of Icons:** Thousands of icons across different categories, allowing you to find icons that suit your design needs.
+- **High Scalability:** Icons can be resized without sacrificing quality, ensuring sharp and clear visuals across various screen resolutions.
+- **Easy Integration:** Easily integrate into web projects or desktop applications using various platforms and technologies.
+- **Supports Multiple Formats:** Provides icons in font, SVG, and other formats to cater to diverse usage needs.
 
-- **Flexible Customization:** You can easily customize the color, size, and style of icons to fit your design needs, providing limitless flexibility.
+## Usage
 
-- **Animation:** **Font Awesome Pro 6.4.2** supports animation, allowing you to add engaging interactive elements to your website.
+### Using Font Awesome Pro v6.5.0 in Web Projects
 
-## How to Use
+To integrate Font Awesome Pro icons into your web projects, follow these steps:
 
-1. Download **Font Awesome Pro 6.4.2** or add it via a Content Delivery Network (CDN).
+1. **Initial Setup:**
+   - Ensure you have a valid Font Awesome Pro license.
+   - Download the Font Awesome Pro v6.5.0 package from the official Font Awesome website.
 
-2. Integrate icons into your project by inserting the appropriate HTML code.
+2. **Integration into HTML:**
+   - Include the Font Awesome CSS file in your HTML document.
+     ```html
+     <link href="/path/to/font-awesome/css/all.css" rel="stylesheet">
+     ```
 
-   Example:
-   ```html
-   <i class="fas fa-heart"></i>
+3. **Displaying Icons:**
+   - Use the appropriate HTML structure with the Font Awesome classes to display icons.
+     ```html
+     <i class="fas fa-camera"></i> <!-- Example camera icon -->
+     ```
 
-## Contribution
+### Using Font Awesome Pro v6.5.0 in Desktop Applications
 
-We welcome contributions to the development of Font Awesome Pro 6.4.2. If you would like to contribute, please open a pull request, and we will gladly review your contributions.
+Integrating Font Awesome Pro icons into desktop applications involves these steps:
 
-## Changelog (6.4.2)
+1. **Initial Setup:**
+   - Ensure you have a valid Font Awesome Pro license.
+   - Download the Font Awesome Pro v6.5.0 package from the official Font Awesome website.
+
+2. **Integration into Application:**
+   - Include the Font Awesome font or icon files in your desktop application resources.
+   - Use the provided font or image files as needed within your application's interface.
+
+Utilize Font Awesome Pro v6.5.0 icons according to the documentation and guidelines provided by Font Awesome for web and desktop integration. Adjust paths and methods based on your specific application's requirements and structure.
+
+For more information on usage and complete documentation, visit the [Font Awesome Documentation](https://fontawesome.com/docs).
+
+## License
+
+Make sure to check the Font Awesome Pro license before using its icons in your projects. <a href="https://github.com/eliyantosarage/font-awesome-pro/blob/main/LICENSE" target="_blank"><img alt="LICENSE" src="https://img.shields.io/github/license/eliyantosarage/font-awesome-pro"></a>
+
+## Contributions
+
+We welcome contributions from the community to improve Font Awesome Pro. Please refer to the contribution guidelines in the [official Font Awesome repository on GitHub](https://github.com/FortAwesome/Font-Awesome).
+
+## Support
+
+For technical support or queries related to using Font Awesome Pro, please contact the official Font Awesome support team.
+
+## Changelog
 
 ### Added
-- Dug up a new, commissioned, raccoon icon.
-- Turned on new subtitles and subtitles-slash icons.
-- Cast a spell on new, commissioned, person-fairy and person-dress-fairy icons.
-- Swapped in new, commissioned, swap and swap-arrows icons.
-- Shone a light on a new lighthouse icon.
-- Trotted out a new globe-pointer icon.
-- Pointed to a selection of new arrow-*-to-*-arc and arrow-*-from-*-arc icons.
-- Got up to get down with a new angles-up-down icon.
-- Added the Threads brand icon.
-- Added the Twitter X brand icon.
-- Added the Debian brand icon.
+
+- **Introducing Font Awesome Sharp Thin!**
+  - 3,000+ icons in an elegant new style: Sharp Thin.
+  - Sharp Solid, Sharp Regular, and Sharp Light are already available for use. Sharp Duotone is coming soon!
+  - Icons are all built on the same 16px grid as existing Font Awesome Classic icons.
+  - Icon upload now supports Duotone Icons!
+- **New Brand Icons:**
+  - Google Scholar, Pixiv, Signal, Upwork, and Webflow.
+  - Added the Mintbit brand icon, commissioned by Mintbit.
+- **New Icons:**
+  - T-Rex icon to accompany the dinosaur icon.
+  - Truck-fire, excavator, bulldozer, and truck-ladder icons for nostalgia.
+  - City Management icons commissioned by WBlue, including landmark-magnifying-glass, tent-double-peak, truck-utensils, hammer-brushh, sign, sign-wrench, sign-post, building-memo, building-magnifying-glass, and hand-holding-circle-dollar.
+  - Version 4 spinner icon.
+  - Popular icon requests: bell-ring, folder-check, cannon, court-sport, and wave.
+  - New file-type icons.
+  - New magnifying glass icons: magnifying-glass-waveform, magnifying-glass-play, and magnifying-glass-music. The latter was commissioned by Undeco.
+  - Reflect-horizontal and reflect-vertical icons.
+  - Ticket-based icons: tickets, ticket-perforated, and tickets-perforated.
 
 ### Changed
-- Added "types" to the package.json exports for TypeScript definitions in JS packages.
+
+- **Logos Update:**
+  - Updated Facebook, Patreon, Ubuntu, and SUSE logos.
+- **Icon Modifications:**
+  - Simplified the "fire" icon modifier in several icons.
 
 ### Fixed
-- Fixed an issue with the classic light style of the arrow-down-wide-short icon.
-- Fixed issue with the regular styles of the clone and copy icons.
-- Fixed an issue with the hand-spock icon.
-- Fixed an issue where the "heart" in the hand-holding-heart and other "hand/heart" icons were too heavy in the Thin style.
-- Fixed a warning in the Edge browser using createElementNS for SVG elements.
+
+- **Icon Fixes:**
+  - Updated all "square" brand icons to use a consistent corner radius.
+  - Addressed self-intersecting vector paths in multiple icons to enhance compatibility with the Icon Wizard.
+  - Minor fixes in scroll-old, spray-can, and filter-circle-dollar icons.
 
 <div align="center">
     <a href="https://fontawesome.com/docs/changelog/" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">View All Changelog</a>
 </div>
 
-## License
+---
 
-<div align="left">
-<a href="https://fontawesome.com/license" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/license/eliyantosarage/font-awesome-pro"></a>
-</div>
+Thank you for choosing Font Awesome Pro v6.5.0 for your projects! We hope it elevates your design and development experiences.
