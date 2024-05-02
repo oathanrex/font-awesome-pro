@@ -1,6 +1,6 @@
-# Font Awesome Pro v6.5.1
+# Font Awesome Pro v6.5.2
 
-Font Awesome Pro is an extensive and diverse collection of icons designed for use in web development and desktop applications. This version, v6.5.1, offers a wide range of high-quality icons that can enhance the aesthetic and functionality of your projects.
+Font Awesome Pro is an extensive and diverse collection of icons designed for use in web development and desktop applications. This version, v6.5.2, offers a wide range of high-quality icons that can enhance the aesthetic and functionality of your projects.
 
 ###
 
@@ -19,18 +19,18 @@ Font Awesome Pro is an extensive and diverse collection of icons designed for us
 
 ## Usage
 
-### Using Font Awesome Pro v6.5.1 in Web Projects
+### Using Font Awesome Pro v6.5.2 in Web Projects
 
 To integrate Font Awesome Pro icons into your web projects, follow these steps:
 
 1. **Initial Setup:**
    - Ensure you have a valid Font Awesome Pro license.
-   - Download the Font Awesome Pro v6.5.1 package from the official Font Awesome website.
+   - Download the Font Awesome Pro v6.5.2 package from the official Font Awesome website.
 
 2. **Integration into HTML:**
    - Include the Font Awesome CSS file in your HTML document.
      ```html
-     <link href="https://cdn.jsdelivr.net/gh/eliyantosarage/font-awesome-pro@main/fontawesome-pro-6.5.1-web/css/all.min.css" rel="stylesheet">
+     <link href="https://cdn.jsdelivr.net/gh/eliyantosarage/font-awesome-pro@main/fontawesome-pro-6.5.2-web/css/all.min.css" rel="stylesheet">
      ```
 
 3. **Displaying Icons:**
@@ -39,19 +39,19 @@ To integrate Font Awesome Pro icons into your web projects, follow these steps:
      <i class="fas fa-camera"></i> <!-- Example camera icon -->
      ```
 
-### Using Font Awesome Pro v6.5.1 in Desktop Applications
+### Using Font Awesome Pro v6.5.2 in Desktop Applications
 
 Integrating Font Awesome Pro icons into desktop applications involves these steps:
 
 1. **Initial Setup:**
    - Ensure you have a valid Font Awesome Pro license.
-   - Download the Font Awesome Pro v6.5.1 package from the official Font Awesome website.
+   - Download the Font Awesome Pro v6.5.2 package from the official Font Awesome website.
 
 2. **Integration into Application:**
    - Include the Font Awesome font or icon files in your desktop application resources.
    - Use the provided font or image files as needed within your application's interface.
 
-Utilize Font Awesome Pro v6.5.1 icons according to the documentation and guidelines provided by Font Awesome for web and desktop integration. Adjust paths and methods based on your specific application's requirements and structure.
+Utilize Font Awesome Pro v6.5.2 icons according to the documentation and guidelines provided by Font Awesome for web and desktop integration. Adjust paths and methods based on your specific application's requirements and structure.
 
 For more information on usage and complete documentation, visit the [Font Awesome Documentation](https://fontawesome.com/docs).
 
@@ -68,21 +68,39 @@ We welcome contributions from the community to improve Font Awesome Pro. Please 
 
 For technical support or queries related to using Font Awesome Pro, please contact the official Font Awesome support team.
 
-## Changelog v6.5.1 (*Released November 30, 2023*)
+## Changelog v6.5.2 (*Released April 1, 2024*)
+
+### Added
+
+- Crowned our new Web Awesome brand icon
+- Waved our new Font Awesome brand icon
+- Finally added the new Bluesky brand icon
+- Added a new commissioned JXL for Jira brand icon
+- A batch of new icons, including: caduceus, gluten-free, and reflect-both icons
+- Signaled a new circle-wifi and commissioned circle-wifi-group icons
+- New commissioned file-cad, ant, and baby bottle icons
+- Locked in some table-related icons, including: table-cells-lock, table-cells-column-lock, and table-cells-row-lock
 
 ### Changed
 
-- Updated the reddit, reddit-alien, and square-reddit brand icons
+- Updated the Kickstarter brand icon
+- Updated the Upwork brand icon
 
 ### Fixed
 
-- Corrected file-pdf reading "PNG"
-- Updated some brand icons that were accidentally marked as Pro-only
+- Fixed an issue where calendar-lines in Sharp Regular wasn't actually sharp
+- Fixed the duotone styling of printer, fax, and shredder
+- Fixed spacing in the location-check icon
+- Fixed an issue with the SVG of face-kiss-beam
+- Filled in some missing icons in the arrow-to/from-bracket icon series
+- Update the TypeScript definition for Library.add() to allow an array of icon defintions
+- Animation CSS custom property --fa-rotate-by now has a correct default value of 0
+- Fixed some Less variable issues with --fa-bounce
 
 <div align="center">
-    <a href="https://fontawesome.com/docs/changelog/" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">View All Changelog</a>
+    <a href="https://fontawesome.com/changelog/" target="_blank" style="text-decoration: none; color: #007BFF; font-weight: bold;">View All Changelog</a>
 </div>
 
 ---
 
-Thank you for choosing Font Awesome Pro v6.5.1 for your projects! We hope it elevates your design and development experiences.
+Thank you for choosing Font Awesome Pro v6.5.2 for your projects! We hope it elevates your design and development experiences.
